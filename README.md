@@ -1,7 +1,8 @@
 # 🚗 CRUD Data Mobil dengan Python
+## M Fawwaz Firjatullah
 
 Projek ini adalah aplikasi CRUD (**Create, Read, Update, Delete**) sederhana untuk mendata mobil menggunakan **Python**.  
-Program dirancang agar **hanya menggunakan materi dasar**:  
+Program dibuat dengan mencakup materi:  
 - Data type
 - Collection Data type (list, dict)
 - Condition Statement (`if`, `else`)
@@ -13,7 +14,7 @@ Program dirancang agar **hanya menggunakan materi dasar**:
 ## 📌 Fitur Utama
 
 ✅ **1. Tampilkan Daftar Mobil**  
-Melihat seluruh data mobil yang tersedia di dalam inventaris.  
+Melihat seluruh data mobil yang tersedia di dalam daftar mobil.  
 Data meliputi: ID, Nama, Tahun, Warna, Stok, dan Harga.
 
 ✅ **2. Tambah Mobil Baru**  
